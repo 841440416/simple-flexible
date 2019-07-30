@@ -1,6 +1,3 @@
-//author:caibaojian
-//website:http://caibaojian.com
-//weibo:http:weibo.com/kujian
 //兼容UC竖屏转横屏出现的BUG
 //自定义设计稿的宽度：designWidth
 //最大宽度:maxWidth
